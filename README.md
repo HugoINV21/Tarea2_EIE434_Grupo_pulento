@@ -18,7 +18,7 @@ tarea_mundial_poo/
     └── titulares_argentina.csv
 ```
 
-## Conceptos de POO usados
+## Conceptos de POO usados 
 
 - **Clase y objetos**: `Jugador` es la plantilla; cada jugador es un objeto.
 - **Herencia**: `Portero`, `Defensa`, `Mediocampista`, `Delantero` heredan de `Jugador`.
